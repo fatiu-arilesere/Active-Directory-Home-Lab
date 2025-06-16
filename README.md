@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project outlines the installation and configuration of an IT environment for Pasilan Koulutus Oy’s for student network. Due to the COVID-19 restrictions, the setup is first deployed in a QEMU/KVM (VM) Environment before any physical server Installation.<br />
+This project outlines the installation and configuration of an IT environment for Pasilan Koulutus Oy’s for student network. Due to the COVID-19 restrictions, the setup is first deployed in a QEMU/KVM Environment before any physical server Installation.<br />
 
 
 <h2>Languages and Utilities Used</h2>
