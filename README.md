@@ -10,6 +10,8 @@ This project outlines the installation and configuration of an IT environment fo
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
+- <b>QEMU/KVM</b>
+
 
 <h2>Environments Used </h2>
 
