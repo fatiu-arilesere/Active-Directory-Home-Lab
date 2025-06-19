@@ -8,8 +8,8 @@ This project outlines the installation and configuration of an IT environment fo
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b>
 - <b>QEMU/KVM</b>
+- <b>PowerShell</b>
 
 
 
