@@ -8,43 +8,46 @@ This project outlines the installation and configuration of an IT environment fo
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>PowerShell</b>
 - <b>QEMU/KVM</b>
+
+
 
 
 <h2>Environments Used </h2>
 
+- <b>Windows Server</b> (21H2)
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Setting up the Windows Server: <br/>
+Windows Server was deployed using the QEMU/KVM
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Installing AD and enabling AD edu.local:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Promoting Server to AD controller: <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+Create new AD user:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Creating Group Policy Object(GPO):  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Setting up Workstation VM :  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Joining Workstation to Domain:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
