@@ -24,7 +24,7 @@ This project outlines the installation and configuration of an IT environment fo
 <p align="center">
 Setting up the Windows Server: <br/>
 Windows Server was deployed using the QEMU/KVM
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YAZZWSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Installing AD and enabling AD edu.local:  <br/>
