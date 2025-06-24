@@ -35,11 +35,19 @@ Promoting Server to AD controller: <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating OU:  <br/>
+Creating OU with Powershell:  <br/>
 <img src="https://i.imgur.com/NIUEgcA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating an AD User:  <br/>
+Creating an AD User with Powershell script:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating an AD User with Powershell script:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Creating an AD User with Powershell script:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
