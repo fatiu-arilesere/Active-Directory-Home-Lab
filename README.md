@@ -43,11 +43,11 @@ Creating an AD User with Powershell script:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating an AD User with Powershell script:  <br/>
+Printer Installation:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating an AD User with Powershell script:  <br/>
+Adding a BackupDrive:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -55,7 +55,7 @@ Creating Group Policy Object(GPO):  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Setting up Workstation VM :  <br/>
+Setting up Workstation VM:  <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
