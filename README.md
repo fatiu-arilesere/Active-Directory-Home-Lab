@@ -28,19 +28,21 @@ Windows Server was deployed using the QEMU/KVM
 <br />
 <br />
 Installing AD and enabling AD edu.local:  <br/>
-<img src="https://i.imgur.com/nomt1yB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nomt1yB.png" height="80%" width="80%" alt="AD installation"/>
 <br />
 <br />
 Promoting Server to AD controller: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Creating OU with Powershell:  <br/>
-<img src="https://i.imgur.com/NIUEgcA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gMYUIJe.png" height="80%" width="80%" alt="Code for creating OU"/>
+<img src="https://i.imgur.com/Gt2SImF.png" height="80%" width="80%" alt="Created OU's in Active Directory Users and Computers Utility"/>
 <br />
 <br />
 Creating an AD User with Powershell script:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uGyT2zl.png" height="80%" width="80%" alt="Power-Shell Script"/>
+<img src="https://i.imgur.com/NpKTOOx.png" height="80%" width="80%" alt="Created AD User's in Active Directory Users and Computers Utility"/>
 <br />
 <br />
 Printer Installation:  <br/>
