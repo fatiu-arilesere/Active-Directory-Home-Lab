@@ -46,7 +46,7 @@ Creating an AD User with Powershell script:  <br/>
 <br />
 <br />
 Printer Installation:  <br/>
-<img src="https://imgur.com/a/pIme9Tu" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/a/pIme9Tu.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Adding a BackupDrive:  <br/>
@@ -54,7 +54,7 @@ Adding a BackupDrive:  <br/>
 <br />
 <br />
 Creating Group Policy Object(GPO):  <br/>
-<img src="https://imgur.com/a/ZuffoVd" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/a/ZuffoVd.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Setting up Workstation VM:  <br/>
