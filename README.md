@@ -54,7 +54,7 @@ Adding a BackupDrive:  <br/>
 <br />
 <br />
 Creating Group Policy Object(GPO):  <br/>
-<img src="https://imgur.com/a/ZuffoVd.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/uh17m9e.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Setting up Workstation VM:  <br/>
