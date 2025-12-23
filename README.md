@@ -66,10 +66,6 @@ Creating Group Policy Object(GPO):  <br/>
 <img src="https://i.imgur.com/uh17m9e.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Setting up Workstation VM:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
-<br />
-<br />
 Joining Workstation to Domain:  <br/>
 <img src="https://i.imgur.com/DqQuoYD.png" height="80%" width="80%" alt=""/>
 <img src="https://i.imgur.com/vsKscpL.png" height="80%" width="80%" alt="Confirm the Workstation is Part of the Domain"/>
