@@ -53,7 +53,13 @@ Printer Installation:  <br/>
 <br />
 <br />
 Adding a BackupDrive:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/XXTFC7o.png" height="80%" width="80%" alt="Adding a drive to the VM"/>
+<img src="https://i.imgur.com/KssqSqc.png" height="80%" width="80%" alt="Formating the newly added Disk from the Disk Management"/>
+<img src="https://i.imgur.com/TLdPxXE.png" height="80%" width="80%" alt="Checking the Disk from the file manager"/>
+<img src="https://i.imgur.com/e8SPFVU.png" height="80%" width="80%" alt="Installing the Windows Server Backup"/>
+<img src="https://i.imgur.com/UNJDigP.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/3QJzvGt.png" height="80%" width="80%" alt="Windows Server Backup Configuration "/>
+<img src="https://i.imgur.com/i7Ftxzm.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Creating Group Policy Object(GPO):  <br/>
@@ -65,7 +71,8 @@ Setting up Workstation VM:  <br/>
 <br />
 <br />
 Joining Workstation to Domain:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/DqQuoYD.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/vsKscpL.png" height="80%" width="80%" alt="Confirm the Workstation is Part of the Domain"/>
 </p>
 
 <!--
