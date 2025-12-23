@@ -47,7 +47,8 @@ Creating an AD User with Powershell script:  <br/>
 <br />
 Printer Installation:  <br/>
 <img src="https://i.imgur.com/B4sVlqy.png" height="80%" width="80%" alt="Printer Deployment"/>
-<img src="https://imgur.com/a/8JdcuZe#4f6m1A8" height="80%" width="80%" alt="Printer Drivers"/>
+<img src="https://i.imgur.com/4f6m1A8.png" height="80%" width="80%" alt=""/>
+<img src="" height="80%" width="80%" alt="Printer Drivers"/>
 <img src="" height="80%" width="80%" alt="Printer Drivers"/>
 <br />
 <br />
